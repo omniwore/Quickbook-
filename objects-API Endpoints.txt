@@ -1,0 +1,68 @@
+    account
+    attachable
+    base
+    batchrequest
+    bill
+    billpayment
+    budget
+    changedatacapture
+    company_info
+    companycurrency
+    creditcardpayment
+    creditcardpayment_entity
+    creditmemo
+    customer
+    department
+    deposit
+    detailline
+    employee
+    estimate
+    exchangerate
+    invoice
+    item
+    journalentry
+    payment
+    paymentmethod
+    preferences
+    purchase
+    purchaseorder
+    refundreceipt
+    salesreceipt
+    tax
+    taxagency
+    taxcode
+    taxrate
+    taxservice
+    term
+    timeactivity
+    transfer
+    vendor
+    vendorcredit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
